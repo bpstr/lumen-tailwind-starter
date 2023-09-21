@@ -1,0 +1,12 @@
+{
+    "name": "lumen-tailwind-starter",
+    "scripts": {
+        "dev": "npx tailwindcss -i ./resources/css/app.css -o ./public/assets/app.css --watch",
+        "build": "npx tailwindcss -i ./resources/css/app.css -o ./public/assets/app.css"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.16",
+        "postcss": "^8.4.30",
+        "tailwindcss": "^3.3.3"
+    }
+}

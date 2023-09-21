@@ -1,0 +1,8 @@
+.env
+.idea
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+node_modules
+vendor
+public/assets/app.css
